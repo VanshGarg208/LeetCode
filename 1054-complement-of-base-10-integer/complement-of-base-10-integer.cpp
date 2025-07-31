@@ -12,6 +12,8 @@ public:
             temp = temp >> 1;
         }
 
-        return n ^ mask;
+        int ans = (~n & mask);
+
+        return ans;
     }
 };
