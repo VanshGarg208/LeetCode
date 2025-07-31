@@ -1,25 +1,19 @@
 class Solution {
 public:
-    int helper(int n, long long rev) {
+    int reverse(int x) {
 
-        if (n == 0) {
-            if (rev < INT_MIN || rev > INT_MAX) {
+        int ans = 0;
+        while (x != 0) {
+
+            if (ans < INT_MIN / 10 || ans > INT_MAX / 10) {
                 return 0;
             }
 
-            return rev;
+            int digit = x % 10;
+            ans = (ans * 10) + digit;
+            x = x / 10;
         }
 
-        rev = rev*10 + n%10;
-
-        if (rev < INT_MIN || rev > INT_MAX) {
-            return 0;
-        }
-
-        return helper(n/10, rev);
-    }
-
-    int reverse(int x) {
-        return helper(x, 0);
+        return ans;
     }
 };
