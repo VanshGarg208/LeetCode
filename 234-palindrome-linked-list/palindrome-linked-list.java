@@ -24,20 +24,21 @@ class Solution {
         ListNode slow = head;
         ListNode fast = head;
 
-        while (fast.next != null && fast.next.next != null) {
+        while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        ListNode temp = reverse(slow.next);
-        slow.next = temp;
+        ListNode temp = reverse(slow);
         ListNode p1 = head;
-        ListNode p2 = slow.next;
-        while(p2 != null) {
-            if (p1.val != p2.val)  return false;
+        ListNode p2 = temp;
+
+        while (p2 != null) {
+            if (p1.val != p2.val) return false;
             p1 = p1.next;
             p2 = p2.next;
         }
         return true;
+
     }
 }
