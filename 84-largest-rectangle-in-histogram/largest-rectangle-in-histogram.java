@@ -5,9 +5,10 @@ class Solution {
         int[] nse = new int[n];
         int[] pse = new int[n];
 
-        // nse from reverse
+        //nse from reverse
         st.push(n-1);
         nse[n-1] = n;
+
         for (int i = n-2; i >= 0; i--) {
             while (st.size() > 0 && heights[st.peek()] >= heights[i]) {
                 st.pop();
@@ -19,7 +20,7 @@ class Solution {
             st.push(i);
         }
 
-        // Empty stack
+        // empty stack
         while (st.size() != 0) {
             st.pop();
         }
@@ -39,7 +40,7 @@ class Solution {
             st.push(i);
         }
 
-        // Maximum area of largest ractangle
+        // max area
         int max = -1;
         for (int i = 0; i < n; i++) {
             int area = ((heights[i])*(nse[i]-pse[i]-1));
