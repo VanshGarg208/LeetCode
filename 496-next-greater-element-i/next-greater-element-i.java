@@ -2,10 +2,9 @@ class Solution {
 
     public int[] replace(int[] nums2) {
         Stack<Integer> st = new Stack<>();
-
         int n = nums2.length;
-        int res[] = new int[n];
 
+        int[] res = new int[n];
         res[n-1] = -1;
         st.push(nums2[n-1]);
 
@@ -23,10 +22,10 @@ class Solution {
     }
 
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int[] nge2 = replace(nums2);
         int n1 = nums1.length;
         int n2 = nums2.length;
 
+        int[] nge2 = replace(nums2);
         int[] ans = new int[n1];
 
         for (int i = 0; i < n1; i++) {
