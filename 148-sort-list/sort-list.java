@@ -48,10 +48,9 @@ class Solution {
             }
             temp = temp.next;
         }
-        
+
         if (h1 != null) temp.next = h1;
         else temp.next = h2;
-
         return dummy.next;
     }
 }
