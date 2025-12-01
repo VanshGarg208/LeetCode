@@ -38,7 +38,7 @@ class Solution {
         ListNode temp = dummy;
 
         while (h1 != null && h2 != null) {
-            if (h1.val < h2.val) {
+            if (h1.val <= h2.val) {
                 temp.next = h1;
                 h1 = h1.next;
             }
