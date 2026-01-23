@@ -15,10 +15,7 @@ class Solution {
 
         if (in.length() != out.length()) return false;
         for (int i = 0; i < in.length(); i++) {
-            char t1 = in.charAt(i);
-            char t2 = out.charAt(i);
-
-            if (t1 != t2) return false;
+            if (in.charAt(i) != out.charAt(i)) return false;
         }
         return true;
     }
