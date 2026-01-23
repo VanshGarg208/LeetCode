@@ -1,22 +1,25 @@
 class Solution {
     public boolean isPalindrome(String str) {
-        str = str.trim();
-        //String[] arr = str.split("//s+");
         StringBuilder sb = new StringBuilder("");
         for (int i = 0; i < str.length(); i++) {
             char ch = str.charAt(i);
 
-            if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z') || (ch >= '0' && ch <= '9')) sb.append(Character.toLowerCase(ch));
-
+            if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z') || (ch >= '0' && ch <= '9')) {
+                sb.append(Character.toLowerCase(ch));
+            }
         }
+        String orig = sb.toString();
 
-        String in = sb.toString();
-        String out = new StringBuilder(in).reverse().toString();
-
-        if (in.length() != out.length()) return false;
-        for (int i = 0; i < in.length(); i++) {
-            if (in.charAt(i) != out.charAt(i)) return false;
+        int l = 0;
+        int r = orig.length()-1;
+        while (l < r) {
+            if (orig.charAt(l) != orig.charAt(r)) return false;
+            else {
+                l++;
+                r--;
+            }
         }
         return true;
+        
     }
 }
