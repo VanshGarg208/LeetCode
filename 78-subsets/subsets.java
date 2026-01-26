@@ -6,7 +6,7 @@ class Solution {
         return list;
     }
 
-    public static void backtrack(List<List<Integer>> list, List <Integer> templist, int[] nums, int start) {
+    public static void backtrack(List<List<Integer>> list, List<Integer> templist, int[] nums, int start) {
         list.add(new ArrayList<>(templist));
         for (int i = start; i < nums.length; i++) {
             templist.add(nums[i]);
