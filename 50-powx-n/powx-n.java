@@ -5,6 +5,7 @@ class Solution {
             x = 1/x;
             N = -N;
         }
+
         return power(x, N);
     }
 
@@ -14,7 +15,6 @@ class Solution {
         double call = power(x, n/2);
 
         if (n % 2 == 0) return call * call;
-
-        else return call * call * x; 
+        else return call * call * x;
     }
 }
