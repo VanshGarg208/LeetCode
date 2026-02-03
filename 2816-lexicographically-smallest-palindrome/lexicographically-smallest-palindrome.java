@@ -1,6 +1,5 @@
 class Solution {
     public String makeSmallestPalindrome(String str) {
-
         char[] arr = str.toCharArray();
 
         int s = 0;
