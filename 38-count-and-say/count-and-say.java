@@ -2,23 +2,22 @@ class Solution {
     public String countAndSay(int n) {
         if (n == 1) return "1";
 
-        StringBuilder sb = new StringBuilder("");
+        String str = countAndSay(n-1);
+        String ans = "";
 
-        String prev = countAndSay(n-1);
-
-        int i = 0;
-        while (i < prev.length()) {
-            int count = 1;
-            while ((i+1 < prev.length()) && (prev.charAt(i) == prev.charAt(i+1))) {
-                count++;
-                i++;
+        int i = 0, j = 0;
+        while (j < str.length()) {
+            if (str.charAt(i) == str.charAt(j)) j++;
+            else {
+                int freq = j-i;
+                ans += freq;
+                ans += str.charAt(i);
+                i = j;
             }
-
-            sb.append(count);
-            sb.append(prev.charAt(i));
-            i++;
         }
-
-        return sb.toString();
+        int freq = j-i;
+        ans += freq;
+        ans += str.charAt(i);
+        return ans;
     }
 }
