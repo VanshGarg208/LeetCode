@@ -5,7 +5,7 @@ class Solution {
             xor ^= ele;
         }
 
-        int mask = (xor&(xor-1))^xor;
+        int mask = (xor & (xor-1)) ^ xor;
 
         int b1 = 0, b2 = 0;
         for (int ele : arr) {
