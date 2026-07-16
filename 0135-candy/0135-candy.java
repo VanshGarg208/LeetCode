@@ -25,13 +25,9 @@ class Solution {
             }
         }
 
-        int[] res = new int[n];
-        for (int i = 0; i < n; i++) {
-            res[i] = Math.max(left[i], right[i]);
-        }
         int sum = 0;
         for (int i = 0; i < n; i++) {
-            sum += res[i];
+            sum += Math.max(left[i], right[i]);
         }
         return sum;
     }
