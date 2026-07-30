@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/VanshGarg208/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/VanshGarg208/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/VanshGarg208/LeetCode/tree/master/0135-candy) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshGarg208/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VanshGarg208/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/VanshGarg208/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/VanshGarg208/LeetCode/tree/master/0392-is-subsequence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshGarg208/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VanshGarg208/LeetCode/tree/master/0069-sqrtx) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshGarg208/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VanshGarg208/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
