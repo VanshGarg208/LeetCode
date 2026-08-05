@@ -105,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/VanshGarg208/LeetCode/tree/master/0486-predict-the-winner) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/VanshGarg208/LeetCode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
