@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/VanshGarg208/LeetCode/tree/master/0274-h-index) |
 | [0486-predict-the-winner](https://github.com/VanshGarg208/LeetCode/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VanshGarg208/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0739-daily-temperatures](https://github.com/VanshGarg208/LeetCode/tree/master/0739-daily-temperatures) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/VanshGarg208/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VanshGarg208/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/VanshGarg208/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/VanshGarg208/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
