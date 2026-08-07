@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/VanshGarg208/LeetCode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VanshGarg208/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/VanshGarg208/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/VanshGarg208/LeetCode/tree/master/0274-h-index) |
 | [0486-predict-the-winner](https://github.com/VanshGarg208/LeetCode/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VanshGarg208/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/VanshGarg208/LeetCode/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/VanshGarg208/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/VanshGarg208/LeetCode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/VanshGarg208/LeetCode/tree/master/0389-find-the-difference) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VanshGarg208/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -140,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/VanshGarg208/LeetCode/tree/master/0994-rotting-oranges) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
