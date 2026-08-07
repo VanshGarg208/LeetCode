@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/VanshGarg208/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/VanshGarg208/LeetCode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VanshGarg208/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/VanshGarg208/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/VanshGarg208/LeetCode/tree/master/0274-h-index) |
 | [0486-predict-the-winner](https://github.com/VanshGarg208/LeetCode/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VanshGarg208/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VanshGarg208/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/VanshGarg208/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VanshGarg208/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/VanshGarg208/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VanshGarg208/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/VanshGarg208/LeetCode/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VanshGarg208/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/VanshGarg208/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
