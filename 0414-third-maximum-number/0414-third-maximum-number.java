@@ -1,13 +1,27 @@
 class Solution {
     public int thirdMax(int[] nums) {
         int n = nums.length;
-        Arrays.sort(nums);
-        int count = 1;
-        for (int i = n-2; i >= 0; i--) {
-            if (nums[i] != nums[i+1]) count++;
-            if (count == 3) return nums[i];
+        long first = Long.MIN_VALUE;
+        long sec = Long.MIN_VALUE;
+        long third = Long.MIN_VALUE;
+
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == first || nums[i] == sec || nums[i] == third) continue;
+            if (nums[i] > first) {
+                third = sec;
+                sec = first;
+                first = nums[i];
+            }
+            else if (nums[i] > sec) {
+                third = sec;
+                sec = nums[i];
+            }
+            else if (nums[i] > third) {
+                third = nums[i];
+            }
         }
 
-        return nums[n-1];
+        if (third == Long.MIN_VALUE) return (int)first;
+        else return (int)third;
     }
 }
