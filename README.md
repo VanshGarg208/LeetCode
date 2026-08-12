@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VanshGarg208/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/VanshGarg208/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/VanshGarg208/LeetCode/tree/master/0392-is-subsequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/VanshGarg208/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshGarg208/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/VanshGarg208/LeetCode/tree/master/0739-daily-temperatures) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
