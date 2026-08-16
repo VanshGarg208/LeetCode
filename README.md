@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/VanshGarg208/LeetCode/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/VanshGarg208/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2029-stone-game-ix](https://github.com/VanshGarg208/LeetCode/tree/master/2029-stone-game-ix) |
 | [2733-neither-minimum-nor-maximum](https://github.com/VanshGarg208/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3731-find-missing-elements](https://github.com/VanshGarg208/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/VanshGarg208/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/VanshGarg208/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/VanshGarg208/LeetCode/tree/master/0135-candy) |
+| [2029-stone-game-ix](https://github.com/VanshGarg208/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshGarg208/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/VanshGarg208/LeetCode/tree/master/0274-h-index) |
+| [2029-stone-game-ix](https://github.com/VanshGarg208/LeetCode/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/VanshGarg208/LeetCode/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/VanshGarg208/LeetCode/tree/master/0486-predict-the-winner) |
+| [2029-stone-game-ix](https://github.com/VanshGarg208/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshGarg208/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/VanshGarg208/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VanshGarg208/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/VanshGarg208/LeetCode/tree/master/0486-predict-the-winner) |
+| [2029-stone-game-ix](https://github.com/VanshGarg208/LeetCode/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
 | ------- |
@@ -166,4 +171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/VanshGarg208/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VanshGarg208/LeetCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VanshGarg208/LeetCode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VanshGarg208/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
