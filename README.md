@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/VanshGarg208/LeetCode/tree/master/2029-stone-game-ix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VanshGarg208/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/VanshGarg208/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/VanshGarg208/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/VanshGarg208/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/VanshGarg208/LeetCode/tree/master/2029-stone-game-ix) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/VanshGarg208/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
