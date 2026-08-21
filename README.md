@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/VanshGarg208/LeetCode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/VanshGarg208/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/VanshGarg208/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/VanshGarg208/LeetCode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/VanshGarg208/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VanshGarg208/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VanshGarg208/LeetCode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/VanshGarg208/LeetCode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/VanshGarg208/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/VanshGarg208/LeetCode/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/VanshGarg208/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/VanshGarg208/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/VanshGarg208/LeetCode/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/VanshGarg208/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1710-maximum-units-on-a-truck](https://github.com/VanshGarg208/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2029-stone-game-ix](https://github.com/VanshGarg208/LeetCode/tree/master/2029-stone-game-ix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VanshGarg208/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/VanshGarg208/LeetCode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/VanshGarg208/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/VanshGarg208/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/VanshGarg208/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/VanshGarg208/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/VanshGarg208/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
