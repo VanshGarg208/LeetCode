@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/VanshGarg208/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/VanshGarg208/LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/VanshGarg208/LeetCode/tree/master/0994-rotting-oranges) |
+| [1094-car-pooling](https://github.com/VanshGarg208/LeetCode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/VanshGarg208/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/VanshGarg208/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/VanshGarg208/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/VanshGarg208/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/VanshGarg208/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [1094-car-pooling](https://github.com/VanshGarg208/LeetCode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/VanshGarg208/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/VanshGarg208/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1094-car-pooling](https://github.com/VanshGarg208/LeetCode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/VanshGarg208/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/VanshGarg208/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VanshGarg208/LeetCode/tree/master/0525-contiguous-array) |
+| [1094-car-pooling](https://github.com/VanshGarg208/LeetCode/tree/master/1094-car-pooling) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -206,5 +210,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/VanshGarg208/LeetCode/tree/master/1094-car-pooling) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VanshGarg208/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
