@@ -3,24 +3,19 @@ class Solution {
         int[] changes = new int[1001];
 
         for (int[] trip : trips) {
-            int passengers = trip[0];
+            int pass = trip[0];
             int from = trip[1];
             int to = trip[2];
 
-            changes[from] += passengers;
-            changes[to] -= passengers;
+            changes[from] += pass;
+            changes[to] -= pass;
         }
 
-        int current = 0;
-
-        for (int passengers : changes) {
-            current += passengers;
-
-            if (current > capacity) {
-                return false;
-            }
+        int curr = 0;
+        for (int x : changes) {
+            curr += x;
+            if (curr > capacity) return false;
         }
-
         return true;
     }
 }
