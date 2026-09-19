@@ -1,23 +1,21 @@
 class Solution {
     public int repeatedStringMatch(String a, String b) {
-
-        String s = "";
-
+        StringBuilder s = new StringBuilder();
         int count = 0;
 
         while (s.length() < b.length()) {
-            s += a;
+            s.append(a);
             count++;
         }
 
-        if (s.contains(b)) {
+        if (s.toString().contains(b)) {
             return count;
         }
 
-        s += a;
+        s.append(a);
         count++;
 
-        if (s.contains(b)) {
+        if (s.toString().contains(b)) {
             return count;
         }
 
