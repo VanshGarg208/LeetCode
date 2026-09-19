@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VanshGarg208/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/VanshGarg208/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/VanshGarg208/LeetCode/tree/master/0392-is-subsequence) |
+| [0686-repeated-string-match](https://github.com/VanshGarg208/LeetCode/tree/master/0686-repeated-string-match) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/VanshGarg208/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/VanshGarg208/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/VanshGarg208/LeetCode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/VanshGarg208/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
@@ -272,13 +274,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/VanshGarg208/LeetCode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/VanshGarg208/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/VanshGarg208/LeetCode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/VanshGarg208/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/VanshGarg208/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/VanshGarg208/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
