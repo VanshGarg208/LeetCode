@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VanshGarg208/LeetCode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/VanshGarg208/LeetCode/tree/master/0392-is-subsequence) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/VanshGarg208/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/VanshGarg208/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VanshGarg208/LeetCode/tree/master/0242-valid-anagram) |
@@ -298,8 +300,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/VanshGarg208/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/VanshGarg208/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/VanshGarg208/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
