@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/VanshGarg208/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/VanshGarg208/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/VanshGarg208/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/VanshGarg208/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/VanshGarg208/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/VanshGarg208/LeetCode/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/VanshGarg208/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/VanshGarg208/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/VanshGarg208/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/VanshGarg208/LeetCode/tree/master/0980-unique-paths-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/VanshGarg208/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
