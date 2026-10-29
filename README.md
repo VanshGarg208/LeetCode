@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/VanshGarg208/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0389-find-the-difference](https://github.com/VanshGarg208/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/VanshGarg208/LeetCode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/VanshGarg208/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VanshGarg208/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0686-repeated-string-match](https://github.com/VanshGarg208/LeetCode/tree/master/0686-repeated-string-match) |
 | [0856-score-of-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VanshGarg208/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/VanshGarg208/LeetCode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/VanshGarg208/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VanshGarg208/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/VanshGarg208/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/VanshGarg208/LeetCode/tree/master/0525-contiguous-array) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/VanshGarg208/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/VanshGarg208/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VanshGarg208/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VanshGarg208/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VanshGarg208/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
