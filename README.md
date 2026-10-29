@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/VanshGarg208/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/VanshGarg208/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/VanshGarg208/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/VanshGarg208/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/VanshGarg208/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/VanshGarg208/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/VanshGarg208/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/VanshGarg208/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VanshGarg208/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/VanshGarg208/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VanshGarg208/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/VanshGarg208/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
