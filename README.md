@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/VanshGarg208/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/VanshGarg208/LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Combinatorics
