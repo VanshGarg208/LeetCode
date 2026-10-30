@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/VanshGarg208/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/VanshGarg208/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VanshGarg208/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/VanshGarg208/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VanshGarg208/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/VanshGarg208/LeetCode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/VanshGarg208/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/VanshGarg208/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/VanshGarg208/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/VanshGarg208/LeetCode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/VanshGarg208/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1748-sum-of-unique-elements](https://github.com/VanshGarg208/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VanshGarg208/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/VanshGarg208/LeetCode/tree/master/3731-find-missing-elements) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/VanshGarg208/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VanshGarg208/LeetCode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/VanshGarg208/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/VanshGarg208/LeetCode/tree/master/1094-car-pooling) |
 ## Breadth-First Search
 |  |
