@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/VanshGarg208/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VanshGarg208/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshGarg208/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/VanshGarg208/LeetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VanshGarg208/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
@@ -329,15 +330,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/VanshGarg208/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/VanshGarg208/LeetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## String Matching
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/VanshGarg208/LeetCode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/VanshGarg208/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/VanshGarg208/LeetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/VanshGarg208/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/VanshGarg208/LeetCode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Z Algorithm
 |  |
 | ------- |
