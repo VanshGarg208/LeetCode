@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/VanshGarg208/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/VanshGarg208/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/VanshGarg208/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VanshGarg208/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshGarg208/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VanshGarg208/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VanshGarg208/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/VanshGarg208/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/VanshGarg208/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VanshGarg208/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/VanshGarg208/LeetCode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
