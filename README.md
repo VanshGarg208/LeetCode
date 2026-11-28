@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/VanshGarg208/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/VanshGarg208/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/VanshGarg208/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/VanshGarg208/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/VanshGarg208/LeetCode/tree/master/0055-jump-game) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/VanshGarg208/LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/VanshGarg208/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/VanshGarg208/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VanshGarg208/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/VanshGarg208/LeetCode/tree/master/0217-contains-duplicate) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VanshGarg208/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/VanshGarg208/LeetCode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/VanshGarg208/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0165-compare-version-numbers](https://github.com/VanshGarg208/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/VanshGarg208/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/VanshGarg208/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/VanshGarg208/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VanshGarg208/LeetCode/tree/master/0219-contains-duplicate-ii) |
